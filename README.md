@@ -6,13 +6,18 @@
 
 - This is not a training program or curriculum.   There are many other folks already doing a great job at that.
 
-| Service / Username | URL |
-|:-----------------------|:----------------------------------------|
-YouTube @knowbettercloud | https://www.youtube.com/@knowbettercloud
-Twitter @KnowBetterCloud | https://twitter.com/KnowBetterCloud 
-GitHub - KnowBetterCloud | https://github.com/knowbettercloud 
-Twitch - KnowBetterCloud | https://www.twitch.tv/knowbettercloud 
-Medium @knowbettercloud  | https://medium.com/@knowbettercloud/ 
+| Service / Username       | URL |
+|:-------------------------|:----------------------------------------|
+| YouTube @knowbettercloud | https://www.youtube.com/@knowbettercloud
+| Twitter @KnowBetterCloud | https://twitter.com/KnowBetterCloud 
+| GitHub - KnowBetterCloud | https://github.com/knowbettercloud 
+| Twitch - KnowBetterCloud | https://www.twitch.tv/knowbettercloud 
+| Medium @knowbettercloud  | https://medium.com/@knowbettercloud/ 
+
+
+![AWS Certified Cloud Practitioner](./images/aws-certified-cloud-practitioner.png)
+![AWS Certified Solutions Architect Associate](./images/aws-certified-solutions-architect-associate.png)
+![IBM (edX) Intro to Data Science](./images/IBM_edX-introduction-to-data-science.png)
 
 
 <!---
