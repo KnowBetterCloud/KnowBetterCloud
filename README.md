@@ -7,12 +7,13 @@
 - What this is not: a training program or curriculum.   There are many other folks already doing a great job at that.
 
 | Service / Username       | URL |
-|:-------------------------|:----------------------------------------|
-| GitHub - KnowBetterCloud | https://github.com/knowbettercloud 
-| Medium @knowbettercloud  | https://medium.com/@knowbettercloud/ 
-| Twitch - KnowBetterCloud | https://www.twitch.tv/knowbettercloud 
-| YouTube @knowbettercloud | https://www.youtube.com/@knowbettercloud
-| Twitter @KnowBetterCloud | https://twitter.com/KnowBetterCloud 
+|:-------------------------|:-----------------------------------------|
+| GitHub - KnowBetterCloud | https://github.com/knowbettercloud       | 
+| Medium @knowbettercloud  | https://medium.com/@knowbettercloud/     |
+| Twitch - KnowBetterCloud | https://www.twitch.tv/knowbettercloud    |
+| YouTube @knowbettercloud | https://www.youtube.com/@knowbettercloud |
+| Twitter @KnowBetterCloud | https://twitter.com/KnowBetterCloud      |
+| Credly - knowbettercloud | https://credly.com/knowbettercloud       |
 
 
 ![AWS Certified Cloud Practitioner](./images/aws-certified-cloud-practitioner-200x200.png)
