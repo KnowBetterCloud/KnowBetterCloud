@@ -1,18 +1,18 @@
 - 👋 Hi, I’m @KnowBetterCloud (James Radtke)
 - 👀 I’m interested in ... Hybrid Cloud, Containers, Global Thermonuclear War 
 - 🌱 I’m currently learning ... Banjo and Bass
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 💞️ I’m looking to collaborate on ... "how-to content", podcasts, etc...
+- 📫 How to reach me ... knowbettercloud \<at> gmail
 
-- This is not a training program or curriculum.   There are many other folks already doing a great job at that.
+- What this is not: a training program or curriculum.   There are many other folks already doing a great job at that.
 
 | Service / Username       | URL |
 |:-------------------------|:----------------------------------------|
+| GitHub - KnowBetterCloud | https://github.com/knowbettercloud 
+| Medium @knowbettercloud  | https://medium.com/@knowbettercloud/ 
+| Twitch - KnowBetterCloud | https://www.twitch.tv/knowbettercloud 
 | YouTube @knowbettercloud | https://www.youtube.com/@knowbettercloud
 | Twitter @KnowBetterCloud | https://twitter.com/KnowBetterCloud 
-| GitHub - KnowBetterCloud | https://github.com/knowbettercloud 
-| Twitch - KnowBetterCloud | https://www.twitch.tv/knowbettercloud 
-| Medium @knowbettercloud  | https://medium.com/@knowbettercloud/ 
 
 
 ![AWS Certified Cloud Practitioner](./images/aws-certified-cloud-practitioner-200x200.png)
