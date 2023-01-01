@@ -13,7 +13,7 @@
 | Twitch - KnowBetterCloud | https://www.twitch.tv/knowbettercloud    |
 | YouTube @knowbettercloud | https://www.youtube.com/@knowbettercloud |
 | Twitter @KnowBetterCloud | https://twitter.com/KnowBetterCloud      |
-| Credly - knowbettercloud | https://credly.com/knowbettercloud       |
+| Credly - knowbettercloud | https://credly.com/users/knowbettercloud |
 
 
 ![AWS Certified Cloud Practitioner](./images/aws-certified-cloud-practitioner-200x200.png)
