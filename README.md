@@ -21,6 +21,10 @@
 ![AWS Cloud Economics](images/aws-partner-cloud-economics-accreditation-200x200.png)
 ![IBM (edX) Intro to Data Science](./images/IBM_edX-introduction-to-data-science-200x200.png)
 
+# Best Practices
+* Do NOT use the "Root Account" for anything other than creating new IAM accounts.
+* Use MFA.  Always. (where possible)
+* Cloud9 is a great IDE which is integrated to AWS Services and does not require management of AWS access keys.
 
 <!---
 KnowBetterCloud/KnowBetterCloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
