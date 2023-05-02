@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KnowBetterCloud (James Radtke)
 - 👀 I’m interested in ... Hybrid Cloud, Containers, Global Thermonuclear War 
-- 🌱 I’m currently learning ... [EKS Anywhere](https://github.com/aws/eks-anywhere) and [EKS Workshop](https://github.com/aws-samples/eks-workshop-v2) 
+- 🌱 I’m currently working on... [EKS Anywhere](https://github.com/aws/eks-anywhere) and [EKS Workshop](https://github.com/aws-samples/eks-workshop-v2) 
 - 💞️ I’m looking to collaborate on ... "how-to content", podcasts, etc...
 - 📫 How to reach me ... knowbettercloud \<at> gmail
 
